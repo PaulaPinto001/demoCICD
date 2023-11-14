@@ -1,4 +1,4 @@
-neme: Mi workflow
+name: Mi workflow
 
 on: push
 
