@@ -1,1 +1,1 @@
-print("Hola mundo")
+klnkñ("Hola mundo")
